@@ -31,7 +31,13 @@ The UnSubscriber is a powerful and intuitive application designed to help you ma
 
 ## Getting Started
 
-To get started with The UnSubscriber, simply open the application and begin adding your subscriptions. The app will automatically track your spending and send you reminders for upcoming renewals.
+To get started with The UnSubscriber, simply open the application and begin adding your subscriptions. The app will automatically track your spending and send you reminders for upcoming renewals. Follow step by step 
+1. npm install
+2. npm run dev
+3. use to run  http://localhost:9002/
+4. create env file
+5. generate your api key(for reminders)
+6. then again run
 
 build by-:
 Stuti Raghuwanshi
