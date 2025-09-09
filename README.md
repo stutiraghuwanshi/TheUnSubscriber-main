@@ -16,19 +16,18 @@ The UnSubscriber is a powerful and intuitive application designed to help you ma
 
 **Dashboard View**
 
-![Dashboard View](<img width="866" height="336" alt="image" src="https://github.com/user-attachments/assets/16f452bd-2964-4547-b2b6-006ffe0527e0" />
+(<img width="866" height="336" alt="image" src="https://github.com/user-attachments/assets/16f452bd-2964-4547-b2b6-006ffe0527e0" />
 >
 )
 
 **Add/Edit Subscription**
 
-![Add/Edit Subscription](<img width="913" height="445" alt="image" src="https://github.com/user-attachments/assets/25d48314-720b-4fc4-9c2d-87e3af284476" />
+(<img width="913" height="445" alt="image" src="https://github.com/user-attachments/assets/25d48314-720b-4fc4-9c2d-87e3af284476" />
 )
 
 **Reminders Pop-up**
 
-![Reminders Pop-up](<img width="415" height="186" alt="image" src="https://github.com/user-attachments/assets/9d548f91-b6fb-4bce-ac3e-29357e319fed" />
-)
+( <img width="415" height="186" alt="image" src="https://github.com/user-attachments/assets/9d548f91-b6fb-4bce-ac3e-29357e319fed" /> )
 
 ## Getting Started
 
